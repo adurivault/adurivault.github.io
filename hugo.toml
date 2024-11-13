@@ -1,0 +1,4 @@
+baseURL = 'https://adurivault.github.io'
+languageCode = 'en-us'
+title = 'Augustin Durivault'
+theme = 'PaperMod'
