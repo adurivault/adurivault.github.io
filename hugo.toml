@@ -2,3 +2,15 @@ baseURL = 'https://adurivault.github.io'
 languageCode = 'en-us'
 title = 'Augustin Durivault'
 theme = 'PaperMod'
+
+[params]
+  [params.homeInfoParams]
+  [[params.socialIcons]]
+    name = "Github"
+    url = "https://github.com/adurivault"
+  [[params.socialIcons]]
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/augustin-durivault-99a64853/"
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:a.durivault@gmail.com"
