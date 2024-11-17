@@ -2,7 +2,6 @@
 {{- if (not site.Params.disableThemeToggle) }}
 {{- /* theme is light */}}
 {{- if (eq site.Params.defaultTheme "light") }}
-<script defer src="https://cloud.umami.is/script.js" data-website-id="f0f5d4fe-a215-4c2d-928c-954b92c04e28"></script>
 <script>
     if (localStorage.getItem("pref-theme") === "dark") {
         document.body.classList.add('dark');
