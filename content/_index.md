@@ -12,3 +12,4 @@ I get easily fascinated by [beautiful](http://feltron.com/FAR13.html) [data](htt
 Below are a few of my project, and hopefully more to come. 
 
 Feel free to send me an email at a.durivault@gmail.com if you want to get in touch :) . 
+

@@ -5,6 +5,9 @@ theme = 'PaperMod'
 
 [params]
   [params.homeInfoParams]
+    enabled = true
+    displaySocialIcons = false
+    content = "Don't forget to scroll"
   [[params.socialIcons]]
     name = "Github"
     url = "https://github.com/adurivault"
